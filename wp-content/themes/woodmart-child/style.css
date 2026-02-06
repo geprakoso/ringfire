@@ -1,0 +1,24 @@
+/*
+ Theme Name:   Woodmart Child
+ Description:  Woodmart Child Theme
+ Author:       XTemos
+ Author URI:   http://xtemos.com
+ Template:     woodmart
+ Version:      1.0.0
+ Text Domain:  woodmart
+*/
+
+
+/* Force light mode styles */
+/* @media (prefers-color-scheme: dark) {
+  html, body {
+    background-color: #fff !important;
+    color: #000 !important;
+  }
+
+  *, *::before, *::after {
+    background-color: inherit !important;
+    color: inherit !important;
+    filter: none !important;
+  }
+} */

@@ -1,0 +1,30 @@
+# WordPress Core and Config
+wp-config.php
+.htaccess
+.user.ini
+
+# Content and Media
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+wp-content/cache/
+wp-content/advanced-cache.php
+wp-content/debug.log
+
+# Plugins/Themes specific
+wp-content/w3tc-config/
+wp-content/compressx/
+wp-content/compressx-nextgen/
+wp-content/updraft/
+
+# System and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.zip
+*.tar.gz
+*.sql
+node_modules/
+vendor/

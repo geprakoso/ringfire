@@ -1,0 +1,305 @@
+# Copyright (C) 2025 WPClever
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Smart Attribute Groups for WooCommerce 1.1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-attribute-groups\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-27T08:32:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: wpc-attribute-groups\n"
+
+#. Plugin Name of the plugin
+#: wpc-attribute-groups.php
+msgid "WPC Smart Attribute Groups for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: wpc-attribute-groups.php
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+#: wpc-attribute-groups.php
+msgid "WPC Smart Attribute Groups give you the possibility to display product attributes in separate groups."
+msgstr ""
+
+#. Author of the plugin
+#: wpc-attribute-groups.php
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+#: wpc-attribute-groups.php
+msgid "https://wpclever.net"
+msgstr ""
+
+#: includes/class-backend.php:74
+#: includes/class-backend.php:84
+msgid "WPC Smart Attribute Groups"
+msgstr ""
+
+#: includes/class-backend.php:74
+msgid "Smart Attribute Groups"
+msgstr ""
+
+#: includes/class-backend.php:84
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: includes/class-backend.php:87
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: includes/class-backend.php:90
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-backend.php:92
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-backend.php:94
+msgid "Discussion"
+msgstr ""
+
+#: includes/class-backend.php:99
+msgid "Settings updated."
+msgstr ""
+
+#: includes/class-backend.php:106
+#: includes/class-backend.php:256
+msgid "Settings"
+msgstr ""
+
+#: includes/class-backend.php:110
+#: includes/class-backend.php:257
+#: includes/class-backend.php:427
+#: includes/class-backend.php:429
+msgid "Attribute Groups"
+msgstr ""
+
+#: includes/class-backend.php:115
+#: includes/class-backend.php:258
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class-backend.php:118
+msgid "Essential Kit"
+msgstr ""
+
+#: includes/class-backend.php:125
+#: templates/product-attributes.php:122
+#: templates/product-attributes.php:131
+msgid "Other"
+msgstr ""
+
+#: includes/class-backend.php:135
+msgid "Single Attributes"
+msgstr ""
+
+#: includes/class-backend.php:138
+msgid "Configure for single attributes - which were not assigned for any groups."
+msgstr ""
+
+#: includes/class-backend.php:142
+msgid "Position"
+msgstr ""
+
+#: includes/class-backend.php:145
+msgid "Above Attribute Groups"
+msgstr ""
+
+#: includes/class-backend.php:146
+msgid "Below Attribute Groups"
+msgstr ""
+
+#: includes/class-backend.php:151
+msgid "Title"
+msgstr ""
+
+#: includes/class-backend.php:161
+#: includes/class-backend.php:617
+msgid "Description"
+msgstr ""
+
+#: includes/class-backend.php:171
+msgid "Show Weight"
+msgstr ""
+
+#: includes/class-backend.php:174
+#: includes/class-backend.php:184
+#: includes/class-backend.php:586
+msgid "Yes"
+msgstr ""
+
+#: includes/class-backend.php:175
+#: includes/class-backend.php:185
+#: includes/class-backend.php:587
+msgid "No"
+msgstr ""
+
+#: includes/class-backend.php:177
+msgid "Show/hide the product weight in \"Single Attributes\"."
+msgstr ""
+
+#: includes/class-backend.php:181
+msgid "Show Dimensions"
+msgstr ""
+
+#: includes/class-backend.php:187
+msgid "Show/hide the product dimensions in \"Single Attributes\"."
+msgstr ""
+
+#: includes/class-backend.php:192
+msgid "Style"
+msgstr ""
+
+#: includes/class-backend.php:196
+msgid "Layout"
+msgstr ""
+
+#: includes/class-backend.php:199
+msgid "Layout 01"
+msgstr ""
+
+#: includes/class-backend.php:200
+msgid "Layout 02"
+msgstr ""
+
+#: includes/class-backend.php:274
+msgid "Community support"
+msgstr ""
+
+#: includes/class-backend.php:428
+msgid "Attribute Group"
+msgstr ""
+
+#: includes/class-backend.php:430
+msgid "All Attribute Groups"
+msgstr ""
+
+#: includes/class-backend.php:431
+msgid "Edit Attribute Group"
+msgstr ""
+
+#: includes/class-backend.php:432
+msgid "View Attribute Group"
+msgstr ""
+
+#: includes/class-backend.php:433
+msgid "Update Attribute Group"
+msgstr ""
+
+#: includes/class-backend.php:434
+msgid "Add New Attribute Group"
+msgstr ""
+
+#: includes/class-backend.php:435
+msgid "New Attribute Group Name"
+msgstr ""
+
+#: includes/class-backend.php:436
+msgid "Parent Attribute Group"
+msgstr ""
+
+#: includes/class-backend.php:437
+msgid "Parent Attribute Group:"
+msgstr ""
+
+#: includes/class-backend.php:438
+msgid "Search Attribute Groups"
+msgstr ""
+
+#: includes/class-backend.php:439
+msgid "Popular Attribute Groups"
+msgstr ""
+
+#: includes/class-backend.php:440
+msgid "&larr; Go to Attribute Groups"
+msgstr ""
+
+#: includes/class-backend.php:441
+msgid "Separate groups with commas"
+msgstr ""
+
+#: includes/class-backend.php:442
+msgid "Add or remove groups"
+msgstr ""
+
+#: includes/class-backend.php:443
+msgid "Choose from the most used groups"
+msgstr ""
+
+#: includes/class-backend.php:444
+msgid "No groups found"
+msgstr ""
+
+#: includes/class-backend.php:522
+#: includes/class-backend.php:618
+msgid "Apply for"
+msgstr ""
+
+#: includes/class-backend.php:525
+#: includes/class-backend.php:649
+msgid "All products"
+msgstr ""
+
+#: includes/class-backend.php:552
+#: includes/class-backend.php:619
+msgid "Attributes"
+msgstr ""
+
+#: includes/class-backend.php:583
+msgid "Exclude from Additional Information"
+msgstr ""
+
+#: includes/class-backend.php:589
+msgid "Exclude this group from Additional Information. You still can place it in a new tab or elsewhere by using a shortcode."
+msgstr ""
+
+#: includes/class-backend.php:616
+msgid "Name"
+msgstr ""
+
+#: includes/class-backend.php:620
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-backend.php:635
+msgid "Configure terms"
+msgstr ""
+
+#: includes/class-backend.php:682
+msgid "Excluded from Additional Information"
+msgstr ""
+
+#: includes/class-backend.php:687
+msgid "* Premium Version only"
+msgstr ""
+
+#: includes/class-backend.php:706
+msgid "Add attributes from group"
+msgstr ""
+
+#: includes/class-backend.php:708
+msgid "Attribute group"
+msgstr ""
+
+#: includes/class-backend.php:715
+msgid "Add"
+msgstr ""
+
+#: templates/product-attributes.php:109
+msgid "Weight"
+msgstr ""
+
+#: templates/product-attributes.php:116
+msgid "Dimensions"
+msgstr ""

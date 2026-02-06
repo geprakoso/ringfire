@@ -1,0 +1,936 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-24 03:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:922
+msgid " Date"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:921
+msgid " Shortcode"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:956
+msgid "(Note: Use one shortcode per page only)"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:363
+msgid "<admin@yoursite.com>"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/archive-product-builder.php:55
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:377
+msgid "[Subject email]"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:725
+msgid "Add many products in a step"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:113
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:139
+msgid "Add New"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:114
+msgid "Add New Product Builder"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:140
+msgid "Add New Share link"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:538
+msgid "Add New Step"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:437
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:822
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:114
+msgid "Add to cart"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:767
+msgid "Add to cart button always show "
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:238
+msgid "Advanced"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:118
+msgid "AJAX"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:338
+msgid "Allow customers to send an email to friends on the preview page."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-layered-nav.php:80
+msgid "Attribute"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:413
+msgid "Auto add product list when click link."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:568
+msgid "Auto Update Key"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-rating-filter.php:21
+msgid "Average rating"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:120
+msgid "Back"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:148
+msgid "Background color"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:35
+msgid "Builder is not exist"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:132
+msgid "Button"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:181
+msgid "Button Icon"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:886
+msgid "Cannot edit page"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:323
+msgid "Categories"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:710
+msgid "Child categories"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:116
+msgid "Classic"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:159
+msgid "Clear"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:643
+msgid "Clear all"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:298
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/sidebar.php:66
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/sidebar.php:77
+msgid "Clear filter"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:307
+msgid "Clear filter after select"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:283
+msgid "Clear session"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:292
+msgid "Clear session after add to cart"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/short-share-link.php:196
+msgid "Clicked"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:226
+msgid "Control bar background color"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:213
+msgid "Control bar text color"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/data.php:949
+msgid "Copied"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:313
+msgid "Custom CSS"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/short-share-link.php:226
+msgid "Daily"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:749
+msgid "Default quantity is 1. Enable it to add more."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:259
+msgid "Default: Display for admin"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:589
+msgid "Depend"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:605
+msgid "DEPENDING ON"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:673
+msgid "Description"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:488
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:526
+msgid "Description when no product found"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:479
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:517
+msgid "Description:"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:95
+msgid "Design"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:789
+msgid "Display \"Remove all\" button on product builder page"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-layered-nav.php:21
+msgid "Display a list of attributes to filter products in your store."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-rating-filter.php:15
+msgid "Display a list of star ratings to filter products in your store."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-name-filter.php:15
+msgid "Display a search box."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-price-filter.php:14
+msgid "Display a slider to filter products in builder page by price."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:257
+msgid "Display get short share link for customer"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:803
+msgid "Display search products form by ajax"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:243
+msgid "Display share link"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:201
+msgid "Distance from bottom"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:280
+msgid "Do you want to remove all compatible?"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:279
+msgid "Do you want to remove this tab?"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/short-share-link.php:197
+msgid "Don't remove by cron"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:901
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:144
+msgid "Download PDF"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:456
+msgid "Download PDF button"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:115
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:141
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/short-share-link.php:80
+msgid "Edit"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:116
+msgid "Edit Product Builder"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:142
+msgid "Edit Share link"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:96
+msgid "Email"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:597
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:717
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:732
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:747
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:761
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:774
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:787
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:801
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:815
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:832
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:849
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:866
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:330
+msgid "Enable"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:868
+msgid ""
+"Enable it to disable the link to single product pages from the title of "
+"products."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:834
+msgid "Enable it to display out of stock products on product builder page"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:851
+msgid "Enable it to hide the products which have zero prices."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:485
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:523
+msgid "Error description:"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:332
+msgid "Fill your product title or category title"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-price-filter.php:96
+msgid "Filter"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-layered-nav.php:74
+msgid "Filter by"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-price-filter.php:20
+msgid "Filter by price"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:395
+msgid "First step"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:529
+msgid "Footer of layout"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:356
+msgid "From"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:298
+msgid "General"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:719
+msgid "Get all products in child categories"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:581
+msgid "Get Key"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:853
+msgid "Get share link"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:162
+msgid "Get short link"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:343
+msgid "Header"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:484
+msgid "Header of layout"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:841
+msgid "Hide zero price product"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-product-builder/"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:187
+msgid "Icon"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:189
+msgid ""
+"If you use AJAX template and icon option is selected: send email, get share "
+"link, print, pdf button will use icon instead"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/short-share-link.php:53
+msgid "Image"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Increases sales with Building product configuration for your online store. "
+"Help build a complete product from small components"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-price-filter.php:95
+msgid "Max price"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview-popup.php:35
+msgid "Message"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:385
+msgid "Message Body"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:420
+msgid "Message thank you"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:31
+msgid "Method is not exist"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-price-filter.php:94
+msgid "Min price"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:196
+msgid "Mobile"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:117
+msgid "Modern"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/short-share-link.php:54
+msgid "Name"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:117
+msgid "New Product Builder"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:143
+msgid "New Share link"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:214
+msgid "Next"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/archive-product-builder.php:53
+msgid "Next <span class=\"meta-nav\">&larr;</span>"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/data.php:950
+msgid "No link was created"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:121
+msgid "No Product Builders found"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:122
+msgid "No Product Builders found in Trash"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:113
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:130
+msgid "No product was found"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:147
+msgid "No Share link found"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:148
+msgid "No Share link found in Trash"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:824
+msgid "Out of stock products"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:585
+msgid ""
+"Please fill your key what you get from <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">Villatheme</a>. You can automatically update "
+"WooCommerce Product Builder plugin. See guide <a target=\"_blank\" "
+"href=\"https://villatheme.com/knowledge-base/how-to-use-auto-update-"
+"feature/\">here</a>"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:277
+msgid "Please fill your step title"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:278
+msgid "Please fill your tab title that you want to change."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/woocommerce-product-builder.php:61
+msgid ""
+"Please install WooCommerce and active. WooCommerce Product Builder is going "
+"to working."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:599
+msgid "Please save first to load all steps."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:289
+msgid "Please select product for this step"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:200
+msgid "Preview"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:754
+msgid "Preview button always show "
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:208
+msgid "Previous"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:612
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/process.php:318
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:31
+msgid "Price"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/data.php:66
+msgid "Price high to low"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/data.php:65
+msgid "Price low to high"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-price-filter.php:98
+msgid "Price:"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:170
+msgid "Primary background color"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:159
+msgid "Primary text color"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:885
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:135
+msgid "Print"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:97
+msgid "Print & PDF"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:442
+msgid "Print button"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:610
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/process.php:318
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:30
+msgid "Product"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/elementor/widget.php:19
+msgid "Product Builder"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:111
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:112
+msgid "Product Builders"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:808
+msgid "Product is required each step"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:579
+msgid "Product per page"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:302
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:324
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/short-share-link.php:40
+msgid "Products"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/product-template.php:32
+msgid "Products are not found."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:294
+msgid "Products Configuration"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:611
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/process.php:318
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/short-share-link.php:55
+msgid "Quantity"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:740
+msgid "Quantity field"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:422
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:831
+msgid "Remove all"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:780
+msgid "Remove all button "
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:858
+msgid "Remove product title link"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:272
+msgid "Remove short share link records after x day(s)"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:594
+msgid "Save"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:598
+msgid "Save & Check Key"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:155
+msgid "Save short link edited"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:333
+msgid "Search"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-name-filter.php:21
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-name-filter.php:55
+msgid "Search product"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:120
+msgid "Search Product Builders"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:794
+msgid "Search product form"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:146
+msgid "Search Share link"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:245
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:917
+msgid "Search..."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/single/add-to-cart-simple.php:31
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/single/variation-add-to-cart-button.php:17
+msgid "Select"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:734
+msgid "Select multiple products in a step"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:319
+msgid "Select products"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview-popup.php:43
+msgid "Send"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview-popup.php:10
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:127
+msgid "Send email to your friend"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:869
+msgid "Send to your friends"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:133
+msgid "Set color and background color for WooCommerce Product Builder buttons."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:215
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:611
+msgid "Settings"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:137
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:138
+msgid "Share link"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/short-share-link.php:195
+msgid "Short share link"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:951
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:510
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:541
+msgid "Shortcode:"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:470
+msgid "Show short description"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/data.php:67
+msgid "Sort by latest"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:686
+msgid "Sort default"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:604
+msgid "STEP"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/short-share-link.php:59
+msgid "Step"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:459
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:505
+msgid "Step icon:"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:456
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:502
+msgid "Step options"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:371
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview-popup.php:28
+msgid "Subject"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:613
+msgid "Subtotal"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:108
+msgid "Template"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:186
+msgid "Text"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:137
+msgid "Text color"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:661
+msgid "Text prefix each step"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:409
+msgid "The content of message body."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:397
+msgid "The content of message."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:380
+msgid "The first text display on subject field of email."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:428
+msgid "The messages display after sent email."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:405
+msgid "The subject of email."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/data.php:951
+msgid ""
+"This product is dependent on a product from the previous step(s) which may "
+"be missing/removed"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-layered-nav.php:75
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-name-filter.php:22
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-price-filter.php:21
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-rating-filter.php:22
+msgid "Title"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/data.php:63
+msgid "Title A-Z"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/data.php:64
+msgid "Title Z-A"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview-popup.php:21
+msgid "To"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:621
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/process.php:318
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:32
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:101
+msgid "Total"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:408
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:467
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/step.php:810
+msgid "Total:"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:98
+msgid "Update"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:118
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:144
+msgid "View"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:119
+msgid "View Product Builder"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:145
+msgid "View Share link"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-layered-nav.php:23
+msgid "WC Product Builder Attribute Filter"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-price-filter.php:16
+msgid "WC Product Builder Filter Price"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-name-filter.php:17
+msgid "WC Product Builder Name Filter"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/includes/class-widget-rating-filter.php:17
+msgid "WC Product Builder Rating Filter"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/sidebar.php:37
+msgid "WC Product Builder Sidebar"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/sidebar.php:39
+msgid "Widgets in this area will be shown on product builder page."
+msgstr ""
+
+#. Name of the plugin
+msgid "Woocommerce Product Builder Premium"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:610
+msgid "WooCommerce Product Builder Setting"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:85
+msgid "WooCommerce Product Builder Settings"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:349
+msgid "WordPress"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/frontend/ajax.php:460
+msgid "You must choose a product at all step"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:514
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:545
+msgid "Your admin email."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/templates/content-product-builder-preview.php:23
+msgid "Your chosen list"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:401
+msgid "Your email."
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:522
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:553
+msgid "Your site url"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:518
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/settings.php:549
+msgid "Your store address"
+msgstr ""
+
+#: D:/git/woocommerce-product-builder/woocommerce-product-builder/admin/admin.php:667
+msgid "{step_number} - Number of current step"
+msgstr ""

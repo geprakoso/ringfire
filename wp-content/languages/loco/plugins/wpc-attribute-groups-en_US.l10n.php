@@ -1,0 +1,3 @@
+<?php
+return ['project-id-version'=>'WPC Smart Attribute Groups for WooCommerce 1.1.2','report-msgid-bugs-to'=>'https://wordpress.org/support/plugin/wpc-attribute-groups','last-translator'=>'admin','language-team'=>'English (United States)','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','pot-creation-date'=>'2024-07-25T02:33:03+00:00','po-revision-date'=>'2025-02-03 11:23+0000','x-generator'=>'Loco https://localise.biz/','x-domain'=>'wpc-attribute-groups
+','language'=>'en_US','plural-forms'=>'nplurals=2; plural=n != 1;','x-loco-version'=>'2.6.11; wp-6.7.1','messages'=>[]];

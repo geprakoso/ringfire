@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'OneClick Chat to Order','report-msgid-bugs-to'=>'','pot-creation-date'=>'2019-02-17 18:30+0700','po-revision-date'=>'2024-09-17 11:03+0000','last-translator'=>'','language-team'=>'English (United States)','language'=>'en_US','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','plural-forms'=>'nplurals=2; plural=n != 1;','x-generator'=>'Loco https://localise.biz/','x-loco-version'=>'2.6.11; wp-6.6.2','messages'=>[]];
